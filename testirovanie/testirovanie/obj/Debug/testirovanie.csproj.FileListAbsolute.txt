@@ -1,0 +1,16 @@
+C:\Users\kirill\source\repos\testirovanie\testirovanie\bin\Debug\testirovanie.exe.config
+C:\Users\kirill\source\repos\testirovanie\testirovanie\bin\Debug\testirovanie.exe
+C:\Users\kirill\source\repos\testirovanie\testirovanie\bin\Debug\testirovanie.pdb
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\testirovanie.csproj.AssemblyReference.cache
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\testirovanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\MainWindow.g.cs
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\App.g.cs
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\testirovanie_MarkupCompile.cache
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\testirovanie_MarkupCompile.lref
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\MainWindow.baml
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\testirovanie.g.resources
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\testirovanie.Properties.Resources.resources
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\testirovanie.csproj.GenerateResource.cache
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\testirovanie.csproj.CoreCompileInputs.cache
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\testirovanie.exe
+C:\Users\kirill\source\repos\testirovanie\testirovanie\obj\Debug\testirovanie.pdb

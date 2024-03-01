@@ -1,0 +1,67 @@
+﻿<Window x:Class="testirovanie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:testirovanie"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="900">
+    <Canvas Name="myCanvas" 
+            Background="AliceBlue">
+        <Label Name="scoreText" 
+               FontSize="18"
+               Content="Очков: 0/10"></Label>
+        <Label Name="numer" 
+               FontSize="18" 
+               Canvas.Left="389"
+               Content="1"></Label>
+        <TextBlock Name="textQuestion" 
+                   TextAlignment="Center"
+                   FontSize="20"
+                   Width="572"
+                   TextWrapping="Wrap"
+                   Canvas.Left="104"
+                   Canvas.Top="130"
+                   >
+        </TextBlock>
+        <Button Background="WhiteSmoke" 
+                FontSize="18" 
+                Click="checkAnswer"
+                Name="answer1"
+                Width="286"
+                Height="70"
+                Content="txt"
+                Tag="0"
+                Canvas.Left="104"
+                Canvas.Top="234" 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Center" />
+        <Button Background="WhiteSmoke"
+                FontSize="18"
+                Click="checkAnswer" Name="answer2"
+                Width="286" Height="70"
+                Content="txt" Tag="0"
+                Canvas.Left="104" 
+                Canvas.Top="309" 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Center" />
+        <Button Background="WhiteSmoke" 
+                FontSize="18"
+                Click="checkAnswer" Name="answer3"
+                Width="329" Height="70" 
+                Content="txt" Tag="0" 
+                Canvas.Left="476" 
+                Canvas.Top="234" 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Center" />
+        <Button Background="WhiteSmoke"
+                FontSize="18" 
+                Click="checkAnswer" Name="answer4"
+                Width="329" Height="70" 
+                Content="txt" Tag="0" 
+                Canvas.Left="476"
+                Canvas.Top="309" 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Center" />
+    </Canvas>
+</Window>
